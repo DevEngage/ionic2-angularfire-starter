@@ -27,9 +27,9 @@ export class MyApp {
 ionicBootstrap(MyApp, [
     FIREBASE_PROVIDERS,
     defaultFirebase({
-    apiKey: "AIzaSyDp_HxXYjYxFuanqeMtB2bBm8myCAr2Txk",
-    authDomain: "engage-starter.firebaseapp.com",
-    databaseURL: "https://engage-starter.firebaseio.com",
-    storageBucket: "engage-starter.appspot.com",
+      apiKey: "AIzaSyDp_HxXYjYxFuanqeMtB2bBm8myCAr2Txk",
+      authDomain: "engage-starter.firebaseapp.com",
+      databaseURL: "https://engage-starter.firebaseio.com",
+      storageBucket: "engage-starter.appspot.com",
   }),
 ]);
